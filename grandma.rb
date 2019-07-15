@@ -7,7 +7,6 @@ def speak_to_grandma(phrase)
   else
     "No, not since 1938!".upcase
   end 
-  end 
   
   # Write a speak_to_grandma method.
 
